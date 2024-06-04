@@ -1,0 +1,181 @@
+.profile{
+    width: 100vh;
+    width: 100%;
+
+}
+
+.profile_container{
+    width: 100vh;
+    width: 100%;
+
+}
+
+.profile_container_navbar{
+    width: 100vh;
+    width: 100%;
+}
+.profile_container_navbar{
+    width: 100vh;
+    width: 100%;
+
+}
+.profile_container_navbar_img>img{
+    width: 100vh ;
+
+}
+
+
+.profile_container_navbar_info{
+    width: 100%;
+    padding: 0 25px;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.profile_container_navbar_info_wrap{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+.profile_container_navbar_info_wrap_img{
+    position: absolute;
+    z-index: 2;
+    top: -75px;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #FFFFFF;
+    overflow: hidden;
+}
+.profile_container_navbar_info_wrap_img>img{
+    width: 100%;
+}
+
+.profile_container_navbar_info_wrap_btn{
+    padding: 20px;
+}
+
+.profile_container_navbar_info_wrapperInfo{
+
+}
+
+.profile_container_navbar_info_wrapperInfo_text{
+
+}
+.profile_container_navbar_info_wrapperInfo_text>h1{
+    font-family: Segoe UI;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31.92px;
+    
+}
+.profile_container_navbar_info_wrapperInfo_text>p{
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.28px;
+    text-align: left;
+    
+}
+.profile_container_navbar_info_wrapperInfo_folovers{
+    display: flex;
+    margin: 15px 0 40px 0;
+    gap: 30px;
+}
+.profile_container_navbar_info_wrapperInfo_folovers_span{
+    display: flex;
+    gap: 5px;
+}
+.profile_container_navbar_info_wrapperInfo_folovers_span>h1{
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.94px;
+}
+.profile_container_navbar_info_wrapperInfo_folovers_span>p{
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+}
+
+
+
+
+
+
+
+.profile_container_navbar_info_wrapperInfo_linkWrapper{
+    margin: 15px 0;
+}
+.profile_container_navbar_info_wrapperInfo_linkWrapper>h1{
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+}
+.profile_container_navbar_info_wrapperInfo_linkWrapper>h1>a{
+    text-decoration: none;
+    color: #1DA1F2;
+}
+
+
+.profile_container_navbar_info_wrapperInfo_itenWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.profile_container_navbar_info_wrapperInfo_itenWrapper_div{
+    display: flex;
+    gap: 5px;
+}
+.profile_container_navbar_info_wrapperInfo_itenWrapper_div>h1{
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+}
+.profile_container_navbar_info_wrapperInfo_itenWrapper_div>a{
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+    color: #1DA1F2;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.profile_container_main{
+    width: 100vh;
+}
+.profile_container_main_peaplePages{
+    width: 100vh;
+}
+
+
+.profile_container_main_peaplePages_wrap_publick{
+    padding: 20px;
+    display: flex;
+    border-bottom: 1px solid #D8D8D8;
+}
+.profile_container_navbar_info_wrap_btn_button{
+    padding: 10px 15px 10px 15px;
+    border-radius: 50px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: white;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,133 @@
+.regestor{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.regestor_conteiner{
+    width: 740px;
+    padding: 30px 40px;
+    border: 3px solid rgb(10, 97, 237);
+    border-radius: 40px;
+}
+
+
+.regestor_conteiner_img{
+    display: flex;
+    justify-content: center;
+}
+
+
+.regestor_conteiner_wrap_info{
+    margin-top: 43px;
+}
+
+.regestor_conteiner_wrap_info>h1{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 39.9px;
+}
+
+.regestor_conteiner_wrap_labelWrapper{
+
+}
+
+.regestor_conteiner_wrap_labelWrapper_label{
+    margin-top: 10px;
+}
+
+.regestor_conteiner_wrap_labelWrapper_label_input{
+    width: 100%;
+    height: 70px;
+    border-radius: 6px;
+    border: 1px solid #00000033;
+    opacity: 0px;
+    margin-top: 25px;
+    padding-left: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.regestor_conteiner_wrap_labelWrapper_label_input_active1{
+    border: 1px solid red;
+}
+.regestor_conteiner_wrap_labelWrapper_label_input_active2{
+    border: 1px solid red;
+}
+
+
+
+
+
+.regestor_conteiner_wrap_wrapperLink{
+    margin: 30px 0 40px 0;
+}
+.regestor_conteiner_wrap_wrapperLink_link{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #1DA1F2;
+}
+
+
+.regestor_conteiner_wrap_infoWrapper{
+
+}
+.regestor_conteiner_wrap_infoWrapper>h1{
+    font-size: 18px;
+    font-weight: 700;
+}
+.regestor_conteiner_wrap_infoWrapper{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000000;
+}
+
+.regestor_conteiner_wrap_selectWrapper{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 20px;
+}
+
+
+.regestor_conteiner_wrap_selectWrapper_select{
+    height: 70px;
+    border-radius: 6px;
+    border: 1px solid #00000033;
+    opacity: 0px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+    padding-left: 20px;
+}
+.regestor_conteiner_wrap_selectWrapper_select_value1{
+    border: 1px solid red;
+}
+
+
+
+
+
+
+.regestor_conteiner_wrap_selectWrapper_select_placeholder{
+    display: none;
+}
+
+
+
+.regestor_conteiner_wrap_btnWrapper{
+    margin: 64px 0 10px 0;
+}
+.regestor_conteiner_wrap_btnWrapper_button{
+    width: 100%;
+    height: 60px;
+    border-radius: 76px;
+    opacity: 0px;
+    border: none;
+    background-color: #1DA1F2;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
